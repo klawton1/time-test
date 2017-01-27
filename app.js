@@ -1,1 +1,1 @@
-$("h1").text("I'm the fastest!!");
+$("h1").text("Time Test!!");
