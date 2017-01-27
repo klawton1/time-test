@@ -1,3 +1,3 @@
 #Time test 
-start: 9:31
+start: 9:31;
 end: 9:48
